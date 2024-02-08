@@ -1,16 +1,8 @@
 {
-  "changeNumber": 292,
-  "cloud": "Public",
-  "values": [
+   "values": [
     {
-      "name": "ActionGroup",
-      "id": "ActionGroup",
-      "properties": {
-        "changeNumber": 37,
-        "region": "",
-        "regionId": 0,
-        "platform": "Azure",
-        "systemService": "ActionGroup",
+ 
+      "properties": {,
         "addressPrefixes": [
 
 100.14.156.183
